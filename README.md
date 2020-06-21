@@ -18,10 +18,9 @@ Recursos adicionais
 ![qr-correto](https://github.com/fabioiwano/ContoladorAcessoApp/blob/master/app/src/main/res/drawable/qrcode.png)
 ![qr-errado](https://github.com/fabioiwano/ContoladorAcessoApp/blob/master/app/src/main/res/drawable/qrcode_block.png)
 
-#Testes
-##Virtualizado
+## Teste simulador
 ![demovirtualizada](https://github.com/fabioiwano/ContoladorAcessoApp/blob/master/app/src/main/res/drawable/demo_virtualizada.gif)
 
-##Hardware
+## Teste com hardware
 ![demo-hardware](https://github.com/fabioiwano/ContoladorAcessoApp/blob/master/app/src/main/res/drawable/demo_hardware.gif)
 
