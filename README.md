@@ -20,8 +20,8 @@ App para controlador de acesso de uma balada (PAIF) em Kotlin.
 
 # Testes
 Virtualizado
-![demovirtualizada](https://gifs.com/gif/demo-kotlin-virtualizada-1WO9No)
+![demovirtualizada](https://github.com/fabioiwano/ContoladorAcessoApp/blob/master/app/src/main/res/drawable/demo_virtualizada.gif)
 
 Hardware
-![demo-hardware](https://j.gifs.com/L7OPzW.gif)
+![demo-hardware](https://github.com/fabioiwano/ContoladorAcessoApp/blob/master/app/src/main/res/drawable/demo_hardware.gif)
 
