@@ -14,9 +14,7 @@ App para controlador de acesso de uma balada (PAIF) em Kotlin.
 3) A Api retornará as informações para este endpoint correspondente.
 4) Caso o status deste código seja "LIBERADO", a entrada desta pessoa é concedida. Caso o stauts seja "BLOQUEADO", o app dará um feedback visual ("NÃO AUTORIZADO").
 
-# QRs para teste
-![qr-correto](https://github.com/fabioiwano/ContoladorAcessoApp/blob/master/app/src/main/res/drawable/qrcode.png)
-![qr-errado](https://github.com/fabioiwano/ContoladorAcessoApp/blob/master/app/src/main/res/drawable/qrcode_block.png)
+
 
 # Testes
 Virtualizado
